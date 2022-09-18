@@ -1,6 +1,5 @@
 import React from 'react';
 import Budget from '../assets/budgetApp.jpg';
-import realEstate from '../assets/realestate.jpg';
 
 const Work = () => {
   return (
