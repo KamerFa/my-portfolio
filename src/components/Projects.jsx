@@ -27,12 +27,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://kamer-budget.herokuapp.com/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg' target='_blank'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/KamerFa/react-budget-app'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg' target='_blank'>
                     Code
                   </button>
                 </a>
@@ -50,12 +50,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://kamer-budget.herokuapp.com/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg' target='_blank'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/KamerFa/react-budget-app'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                <a href='https://github.com/KamerFa/js-calculator'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg' target='_blank'>
                     Code
                   </button>
                 </a>
